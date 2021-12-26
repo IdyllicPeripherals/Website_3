@@ -1,7 +1,7 @@
 site: Idyllic's Website
 
-url: https://idyllicperipherals.github.io/Website_3/
-baseurl: https://acrylicperipherals.com/
+url: https://acrylicperipherals.com/
+baseurl: https://idyllicperipherals.github.io/Website_3/
 
 collections:
   pages:
